@@ -72,6 +72,8 @@ Require 대신 Widget으로 사용한다. require와 기능적으로 동일하�
 	view : widget.xml
 	styles : widget.tss
 	controller : widget.js
+
+	현재는 일반 구조랑 동일
 	
 
 ### Controller에서 Widget 호출 
